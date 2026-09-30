@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @THANKGOD74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Thankgod 👋
 
-<!---
-THANKGOD74/THANKGOD74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Fullstack Web Developer · Lagos, Nigeria
+
+Currently building the vendor admin dashboard at Communal Technologies.
+Trained at Tech Studio Academy (React, TypeScript, Node.js, MongoDB).
+
+## Featured work
+- 🎟️ Eventra — event-ticketing platform → [live site](https://eventra-client-delta.vercel.app/)
+- 🏪 Vendor Dashboard — Next.js admin dashboard for multi-store vendors
+- ✅ TaskDuty — collaborative task manager
+
+📫 thankgodoghenekevwe74@gmail.com · [LinkedIn](https://www.linkedin.com/in/thankgod-oghenekevwe)
