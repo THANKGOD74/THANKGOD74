@@ -1,6 +1,6 @@
 # Hi, I'm Thankgod 👋
 
-Fullstack Web Developer · Lagos, Nigeria
+Fullstack Web Developer · Port Harcout, Nigeria
 
 Currently building the vendor admin dashboard at Communal Technologies.
 Trained at Tech Studio Academy (React, TypeScript, Node.js, MongoDB).
